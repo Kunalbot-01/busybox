@@ -1,5 +1,3 @@
-sudo su -
-
 FROM devopsedu/webapp 
  
 ADD proj /var/www/html 
